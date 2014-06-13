@@ -1,0 +1,12 @@
+{
+  "name": "DSON-HX",
+  "license": "BSD2",
+  "tags": ["cross","neko","json"],
+  "description": "DSON-HX is a cross-target library for Haxe to work with DSON documents. Mostly for fun.",
+  "contributors": ["theRemix"],
+  "releasenote": "Initial Neko target",
+  "version": "0.0.1",
+  "url": "https://github.com/theRemix/DSON-HX",
+  "dependencies": {
+  }
+}
